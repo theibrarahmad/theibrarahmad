@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 
-I'm a **detail-oriented QA Engineer** based in Lahore, Pakistan, passionate about ensuring software quality through rigorous testing and continuous learning. My work spans across **manual testing, automation, exploratory testing, and CI/CD integration** with tools like **Cypress**, **Postman**, and **GitHub Actions**.
+I'm a **detail-oriented QA Engineer** based in Lahore, Pakistan, passionate about ensuring software quality through rigorous testing and continuous learning. My work spans across **manual testing, automation, and CI/CD integration** with tools like **Cypress**, **Postman**, and **GitHub Actions**.
 
 
 
@@ -25,14 +25,14 @@ I'm a **detail-oriented QA Engineer** based in Lahore, Pakistan, passionate abou
 - **Testing & QA**: Cypress, Postman, JMeter  
 - **Languages**: JavaScript, (for test automation)  
 - **Version Control & CI/CD**: Git, GitHub, GitHub Actions  
-- **Other**: Agile, Scrum, Regression, Sanity, Smoke Testing
+- **Other**: Agile, Scrum, Functional, Performance, Regression, Sanity, Smoke Testing
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: ibrarahmadcontact@gmail.com   
-- 💼 LinkedIn: [linkedin.com/in/theibrarahmad
+- 💼 LinkedIn: linkedin.com/in/theibrarahmad
 
 ---
 
